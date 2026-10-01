@@ -1,0 +1,15 @@
+fastapi==0.136.0
+uvicorn[standard]==0.51.0
+sqlalchemy==2.1.1
+pydantic==2.13.2
+PyJWT==2.13.0
+bcrypt==4.2.1
+httpx==0.28.1
+pytest==8.3.5
+email-validator>=2.0.0
+python-multipart==0.0.32
+
+# Optional drivers for PostgreSQL / MySQL (per assignment):
+# psycopg2-binary==2.9.9
+# pymysql==1.1.1
+# asyncpg==0.30.0
